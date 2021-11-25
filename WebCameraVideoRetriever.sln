@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCameraVideoRetriever.Presentation", "WebCameraVideoRetriever.Presentation\WebCameraVideoRetriever.Presentation.csproj", "{06070039-E030-46B0-8D6B-9B9F6E85C096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCameraVideoRetriever.Api", "WebCameraVideoRetriever.Api\WebCameraVideoRetriever.Api.csproj", "{6E5A894A-F21C-4440-A8D8-D9D44FF846FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06070039-E030-46B0-8D6B-9B9F6E85C096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06070039-E030-46B0-8D6B-9B9F6E85C096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06070039-E030-46B0-8D6B-9B9F6E85C096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06070039-E030-46B0-8D6B-9B9F6E85C096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E5A894A-F21C-4440-A8D8-D9D44FF846FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5A894A-F21C-4440-A8D8-D9D44FF846FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5A894A-F21C-4440-A8D8-D9D44FF846FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5A894A-F21C-4440-A8D8-D9D44FF846FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32EA4E68-D2BF-4BB1-B17F-4307513811D7}
+	EndGlobalSection
+EndGlobal
